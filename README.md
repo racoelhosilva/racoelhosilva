@@ -4,4 +4,4 @@
 <a href="https://github.com/racoelhosilva">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racoelhosilva&theme=gruvbox&show_icons=true&hide_border=false&size_weight=0.5&count_weight=1.0&langs_count=8&layout=compact&border_color=EBDBB2&card_width=320&border_radius=8" />
 </a>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=racoelhosilva&theme=gruvbox&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats" align="center"><img src="https://streak-stats.demolab.com?user=racoelhosilva&theme=gruvbox&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
