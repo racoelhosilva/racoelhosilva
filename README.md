@@ -1,7 +1,7 @@
 <h1 align="center">University Projects</h1>
 
 | UC | Name | Description | Final Grade |
-|:---|:---:|:---|---:|
+|:---|:---:|---|---:|
 | PROG | Image Manipulation | Command-based image manipulation tool for 8-bit RGB images in PNG and XPM2 format (C/C++) | 20.0 |
 | AED | Schedule Manager | CLI utility to manage LEIC student's schedules as well as retrieve information about classes, courses and years (C++) | 18.8 |
 | BDAD | Aiport Management | SQL database designed from scratch to manage various data related to a single specific airport (SQLite) | 19.2 |
