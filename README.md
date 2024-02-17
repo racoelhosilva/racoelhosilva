@@ -1,9 +1,9 @@
 <h1 align="center">Github Statistics</h1>
 
-<a href="https://github.com/racoelhosilva"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racoelhosilva&theme=github_dark&show_icons=true&hide_border=true&size_weight=0.5&count_weight=1.0&langs_count=8&layout=compact&border_color=EBDBB2&card_width=320&border_radius=8" /></a>
-<a href="https://github.com/racoelhosilva"><img height=200 align="center" src="https://streak-stats.demolab.com?user=racoelhosilva&theme=github-dark-blue&border_radius=10&date_format=j%20M%5B%20Y%5D&hide_border=true&border=EBDBB2&card_width=493" alt="GitHub Streak" /></a>
-<a href="https://github.com/racoelhosilva"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=racoelhosilva&theme=github_dark&hide_border=true&border_color=EBDBB2&show_icons=true&border_radius=8&card_width=490" /></a>
-<a href="https://github.com/racoelhosilva"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racoelhosilva&theme=github_dark&show_icons=true&hide_border=true&size_weight=0.5&count_weight=1.0&langs_count=8&layout=compact&border_color=EBDBB2&card_width=320&border_radius=8" /></a>
+<a href="https://github.com/racoelhosilva"><img height=200 width=auto align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racoelhosilva&theme=github_dark&show_icons=true&hide_border=true&size_weight=0.5&count_weight=1.0&langs_count=8&layout=compact&border_color=EBDBB2&card_width=320&border_radius=8" /></a>
+<a href="https://github.com/racoelhosilva"><img height=200 width=493 align="center" src="https://streak-stats.demolab.com?user=racoelhosilva&theme=github-dark-blue&border_radius=10&date_format=j%20M%5B%20Y%5D&hide_border=true&border=EBDBB2&card_width=493" alt="GitHub Streak" /></a>
+<a href="https://github.com/racoelhosilva"><img height=200 width=490 align="center" src="https://github-readme-stats.vercel.app/api?username=racoelhosilva&theme=github_dark&hide_border=true&border_color=EBDBB2&show_icons=true&border_radius=8&card_width=490" /></a>
+<a href="https://github.com/racoelhosilva"><img height=200 width=auto align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racoelhosilva&theme=github_dark&show_icons=true&hide_border=true&size_weight=0.5&count_weight=1.0&langs_count=8&layout=compact&border_color=EBDBB2&card_width=320&border_radius=8" /></a>
 
 <h1 align="center">University Projects</h1>
 
