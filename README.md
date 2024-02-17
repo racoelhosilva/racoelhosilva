@@ -10,7 +10,7 @@
 | UC | Name | Description | Final Grade |
 |---|:---:|---|:---:|
 | PROG | [Image Manipulation](https://github.com/racoelhosilva/PROG_imageManipulation) | Command-based image manipulation tool for 8-bit RGB images in PNG and XPM2 format (C/C++) | 20.0 |
-| AED | Schedule Manager | CLI utility to manage LEIC student's schedules as well as retrieve information about classes, courses and years (C++) | 18.8 |
+| AED | [Schedule Manager]([htt](https://github.com/racoelhosilva/AED_scheduleManager)) | CLI utility to manage LEIC student's schedules as well as retrieve information about classes, courses and years (C++) | 18.8 |
 | BDAD | Aiport Management | SQL database designed from scratch to manage various data related to a single specific airport (SQLite) | 19.2 |
 | LDTS | Timeless Odyssey | GUI 2D platformer designed with custom-made sprites, smooth physics, consecutive levels and much more (Java w/ Lanterna) | 19.5 |
 | AED | Flight Manager | CLI graph-based system to display statistics and calculate best (filtered) flight routes based on a large dataset (C++) | 19.6 |
