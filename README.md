@@ -1,3 +1,10 @@
+<h1 align="center">Github Statistics</h1>
+
+<a href="https://github.com/racoelhosilva"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racoelhosilva&theme=gruvbox&show_icons=true&hide_border=false&size_weight=0.5&count_weight=1.0&langs_count=8&layout=compact&border_color=EBDBB2&card_width=320&border_radius=8" /></a>
+<a href="https://github.com/racoelhosilva"><img height=200 align="center" src="https://streak-stats.demolab.com?user=racoelhosilva&theme=gruvbox&border_radius=10&date_format=j%20M%5B%20Y%5D&border=EBDBB2&card_width=493" alt="GitHub Streak" /></a>
+<a href="https://github.com/racoelhosilva"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=racoelhosilva&theme=gruvbox&hide_border=false&border_color=EBDBB2&show_icons=true&border_radius=8&card_width=490" /></a>
+<a href="https://github.com/racoelhosilva"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racoelhosilva&theme=gruvbox&show_icons=true&hide_border=false&size_weight=0.5&count_weight=1.0&langs_count=8&layout=compact&border_color=EBDBB2&card_width=320&border_radius=8" /></a>
+
 <h1 align="center">University Projects</h1>
 
 | UC | Name | Description | Final Grade |
@@ -17,10 +24,3 @@
 | Dotfiles | Configuration files and backup settings for different software running on my Arch Linux daily-driver setup |
 | Advent of Code | Solutions to Advent of Code challenges from different years with tests taken from the problem description (Python) |
 | LeetCode | Analysis and solutions to LeetCode problems categorized by theme and selected mainly from NeetCode150 and Grind75 (C++) |
-
-<h1 align="center">Github Statistics</h1>
-
-<a href="https://github.com/racoelhosilva"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racoelhosilva&theme=gruvbox&show_icons=true&hide_border=false&size_weight=0.5&count_weight=1.0&langs_count=8&layout=compact&border_color=EBDBB2&card_width=320&border_radius=8" /></a>
-<a href="https://github.com/racoelhosilva"><img height=200 align="center" src="https://streak-stats.demolab.com?user=racoelhosilva&theme=gruvbox&border_radius=10&date_format=j%20M%5B%20Y%5D&border=EBDBB2&card_width=493" alt="GitHub Streak" /></a>
-<a href="https://github.com/racoelhosilva"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=racoelhosilva&theme=gruvbox&hide_border=false&border_color=EBDBB2&show_icons=true&border_radius=8&card_width=490" /></a>
-<a href="https://github.com/racoelhosilva"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racoelhosilva&theme=gruvbox&show_icons=true&hide_border=false&size_weight=0.5&count_weight=1.0&langs_count=8&layout=compact&border_color=EBDBB2&card_width=320&border_radius=8" /></a>
