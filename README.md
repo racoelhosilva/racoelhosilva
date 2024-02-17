@@ -21,6 +21,6 @@
 |:---:|---|
 | [Scripts](https://github.com/racoelhosilva/scripts) | Collection of custom-made shell scripts to automate frequent operations on my Linux system both project and customization related (Bash/Shell) |
 | [Pong SDL](https://github.com/racoelhosilva/pongSDL) | Implementation of the classic Pong game with CPU opponent, custom Makefile and some customization options (C++ w/ SDL) |
-| [Dotfiles](https://github.com/racoelhosilva/dotfiles) | Configuration files and backup settings for different software running on my Arch Linux daily-driver setup |
+| [Dotfiles](https://github.com/racoelhosilva/dotfiles) | Configuration files and backup settings for different software running on my Arch Linux daily-driver setup (AwesomeWM, Alacritty, Polybar, VSCode, Doom Emacs) |
 | [Advent of Code](https://github.com/racoelhosilva/adventOfCode) | Solutions to Advent of Code challenges from different years with tests taken from the problem description (Python) |
 | [LeetCode](https://github.com/racoelhosilva/leetCode) | Analysis and solutions to LeetCode problems categorized by theme and selected mainly from NeetCode150 and Grind75 (C++) |
