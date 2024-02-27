@@ -15,7 +15,7 @@
 | BDAD | [Airport Management](https://github.com/racoelhosilva/BDAD_airportManagement) | SQL database designed from scratch to manage various data related to a single specific airport (SQLite) | 19.2 |
 | LDTS | [Timeless Odyssey](https://github.com/racoelhosilva/LDTS_timelessOdyssey) | GUI 2D platformer designed with custom-made sprites, smooth physics, consecutive levels and much more (Java w/ Lanterna) | 19.5 |
 | AED | [Flight Manager](https://github.com/racoelhosilva/AED_flightManager) | CLI graph-based system to display statistics and calculate best (filtered) flight routes based on a large dataset (C++) | 19.6 |
-| MEST | [Learning R]([https](https://github.com/racoelhosilva/MEST_learningR) | R programming language tutorials and exercise solutions applied to the Statistical Methods class | XX
+| MEST | [Learning R](https://github.com/racoelhosilva/MEST_learningR) | R programming language tutorials and exercise solutions applied to the Statistical Methods class | 
 
 <h1 align="center">Personal Projects</h1>
 
