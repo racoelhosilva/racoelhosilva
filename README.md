@@ -6,7 +6,7 @@
 <a href="https://github.com/racoelhosilva"><img height=200 width=490 align="center" src="https://github-readme-stats.vercel.app/api?username=racoelhosilva&theme=github_dark&hide_border=true&border_color=EBDBB2&show_icons=true&border_radius=8&card_width=490" /></a>
 <a href="https://github.com/racoelhosilva"><img height=200 width=auto align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racoelhosilva&theme=github_dark&show_icons=true&hide_border=true&size_weight=0.35&count_weight=0.45&langs_count=8&layout=compact&border_color=EBDBB2&card_width=320&border_radius=8&exclude_repo=PROG_imageManipulation,dotfiles&hide=cmake,lua,makefile" /></a>
 
-<h2 align="center">Languages</h2>
+<h1 align="center">Languages</h1>
 
 <p align="center">
 <img alt="" src="https://img.shields.io/badge/_-C-_?style=for-the-badge&logo=C&logoColor=%2300599C&labelColor=%23ffffff00&color=%2300599C">
