@@ -33,9 +33,10 @@
 | AED | [Flight Manager](https://github.com/racoelhosilva/AED_flightManager) | CLI graph-based system to display statistics and calculate best (filtered) flight routes based on a large dataset (C++) | 19.6 |
 | MEST | [Learning R](https://github.com/racoelhosilva/MEST_learningR) | R programming language tutorials and exercise solutions applied to the Statistical Methods class (R) | --- |
 | DA | [Water Supply Management](https://github.com/racoelhosilva/DA_waterSupplyManagement) | TUI program to calculate the water flows in a complex graph network with Reservoirs, Pumping Stations and Delivery Sites (C++) | --- | 
+| ESOF | [ECOnnect](https://github.com/racoelhosilva/ESOF_econnect) | Cross-platform phone application for sharing environmental posts and ideas (Dart w/ Flutter) | --- | 
+| DA | [TSP](https://github.com/racoelhosilva/DA_TSP) | TUI implementations and benchmarks of different algorithms and heuristics for the Travelling Salesperson Problem (TSP) with large datasets (C++) | --- |
 | LTW | [Trinted](https://github.com/racoelhosilva/LTW_trinted) | Website for a second-hand marketplace with responsive, interactive and dynamically-generated webpages (PHP, CSS, Typescript, SQLite) | --- | 
 | LCOM | [MINVIM](https://github.com/racoelhosilva/LCOM_minvim) | Vim-inspired text editor with multiple low-level device driver integration (C) | --- | 
-| ESOF | [ECOnnect](https://github.com/racoelhosilva/ESOF_econnect) | Cross-platform phone application for sharing environmental posts and ideas (Dart w/ Flutter) | --- | 
 
 
 <h1 align="center">Personal Projects</h1>
