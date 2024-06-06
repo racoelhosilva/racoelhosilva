@@ -35,7 +35,7 @@
 | DA | [TSP](https://github.com/racoelhosilva/DA_TSP) | TUI implementations and benchmarks of different algorithms and heuristics for the Travelling Salesperson Problem (TSP) with large datasets (C++) | --- |
 | LTW | [Trinted](https://github.com/racoelhosilva/LTW_Trinted) | Website for a second-hand marketplace with responsive, interactive and dynamically-generated webpages (PHP, CSS, Typescript, SQLite) | 18.6 | 
 | ESOF | [ECOnnect](https://github.com/racoelhosilva/ESOF_ECOnnect) | Mobile social media application for environment-related content featuring posts, likes, comments and follows (Dart w/ Flutter, Firebase) | 19.0 | 
-| LCOM | [MINVIM](https://github.com/racoelhosilva/LCOM_minvim) | Vim-inspired text editor with multiple low-level device driver integration (C) | --- | 
+| LCOM | [MINVIM](https://github.com/racoelhosilva/LCOM_minvim) | Vim-inspired text editor with low-level device drivers: timer, mouse, keyboard, graphics card, RTC and serial port for collaboration mode (C) | --- | 
 
 
 <h1 align="center">Personal Projects</h1>
