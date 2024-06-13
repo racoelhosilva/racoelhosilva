@@ -32,7 +32,7 @@
 | LDTS | [Timeless Odyssey](https://github.com/racoelhosilva/LDTS_timelessOdyssey) | GUI 2D platformer designed with custom-made sprites, smooth physics, consecutive levels and much more (Java w/ Lanterna) | 19.5 |
 | AED | [Flight Manager](https://github.com/racoelhosilva/AED_flightManager) | CLI graph-based system to display statistics and calculate best (filtered) flight routes based on a large dataset (C++) | 19.6 |
 | DA | [Water Supply Management](https://github.com/racoelhosilva/DA_waterSupplyManagement) | TUI program to calculate the water flows in a complex graph network with Reservoirs, Pumping Stations and Delivery Sites (C++) | 20.0 | 
-| DA | [TSP](https://github.com/racoelhosilva/DA_TSP) | TUI implementations and benchmarks of different algorithms and heuristics for the Travelling Salesperson Problem (TSP) with large datasets (C++) | --- |
+| DA | [TSP](https://github.com/racoelhosilva/DA_TSP) | TUI implementations and benchmarks of different algorithms and heuristics for the Travelling Salesperson Problem (TSP) with large datasets (C++) | 20.0 |
 | LTW | [Trinted](https://github.com/racoelhosilva/LTW_Trinted) | Website for a second-hand marketplace with responsive, interactive and dynamically-generated webpages (PHP, CSS, Typescript, SQLite) | 18.6 | 
 | ESOF | [ECOnnect](https://github.com/racoelhosilva/ESOF_ECOnnect) | Mobile social media application for environmental sustainability content featuring posts, likes, comments and follows (Dart w/ Flutter, Firebase) | 19.0 | 
 | LCOM | [MINVIM](https://github.com/racoelhosilva/LCOM_minvim) | Vim-inspired text editor with low-level device drivers: timer, mouse, keyboard, graphics card, RTC and serial port for collaboration mode (C) | --- | 
