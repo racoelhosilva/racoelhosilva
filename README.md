@@ -36,7 +36,7 @@
 | LTW | [Trinted](https://github.com/racoelhosilva/LTW_Trinted) | Website for a second-hand marketplace with responsive, interactive and dynamically-generated webpages (PHP, CSS, Typescript, SQLite) | 18.6 | 
 | ESOF | [ECOnnect](https://github.com/racoelhosilva/ESOF_ECOnnect) | Mobile social media application for environmental sustainability content featuring posts, likes, comments and follows (Dart w/ Flutter, Firebase) | 19.0 | 
 | LCOM | [MINVIM](https://github.com/racoelhosilva/LCOM_minvim) | Vim-inspired text editor with low-level device drivers: timer, mouse, keyboard, graphics card, RTC and serial port for collaboration mode (C) | 20.0 | 
-| PFL | [Functional Graphs](https://github.com/racoelhosilva/PFL_graphs) | Functional programming approach to different graph representations, algorithms and data structures: depth first search, dijkstra and held-karp (Haskell) | |
+| PFL | [Functional Graphs](https://github.com/racoelhosilva/PFL_graphs) | Functional programming approach to different graph representations, algorithms and data structures: DFS, Dijkstra and Held-Karp (Haskell) | |
 | RCOM | [Data Link Protocol](https://github.com/racoelhosilva/RCOM_dataLink) | Data Link and Application layer protocol implementation with framing, timer, acknowledgements, stop-and-wait, retransmissions and byte stuffing (C) | | 
 
 
