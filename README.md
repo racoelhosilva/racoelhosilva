@@ -49,5 +49,5 @@
 | [LeetCode](https://github.com/racoelhosilva/leetCode) | Analysis and solutions to LeetCode problems categorized by theme and selected mainly from NeetCode150 and Grind75 (C++) |
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=racoelhosilva&color=blue&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=racoelhosilva&color=blue&style=pixel"/>
 </p>
