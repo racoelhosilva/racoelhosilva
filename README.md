@@ -47,3 +47,7 @@
 | [Dotfiles](https://github.com/racoelhosilva/dotfiles) | Configuration files and backup settings for different software running on my Arch Linux daily-driver setup (AwesomeWM, Alacritty, Polybar, VSCode, Doom Emacs) |
 | [Advent of Code](https://github.com/racoelhosilva/adventOfCode) | Solutions to Advent of Code challenges from different years with tests taken from the problem description (Python) |
 | [LeetCode](https://github.com/racoelhosilva/leetCode) | Analysis and solutions to LeetCode problems categorized by theme and selected mainly from NeetCode150 and Grind75 (C++) |
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=racoelhosilva&color=blue&style=for-the-badge"/>
+</p>
