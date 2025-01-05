@@ -24,31 +24,35 @@
 
 <h1 align="center">University Projects</h1>
 
-| UC | Name | Description | Final Grade |
-|---|:---:|---|:---:|
-| PROG | [Image Manipulation](https://github.com/racoelhosilva/PROG_imageManipulation) | Command-based image manipulation tool for 8-bit RGB images in PNG and XPM2 format (C/C++) | 20.0 |
-| AED | [Schedule Manager](https://github.com/racoelhosilva/AED_scheduleManager) | CLI utility to manage LEIC student's schedules as well as retrieve information about classes, courses and years (C++) | 18.8 |
-| BDAD | [Airport Management](https://github.com/racoelhosilva/BDAD_airportManagement) | SQL database designed from scratch to manage various data related to a single specific airport (SQLite) | 19.2 |
-| LDTS | [Timeless Odyssey](https://github.com/racoelhosilva/LDTS_timelessOdyssey) | GUI 2D platformer designed with custom-made sprites, smooth physics, consecutive levels and much more (Java w/ Lanterna) | 19.5 |
-| AED | [Flight Manager](https://github.com/racoelhosilva/AED_flightManager) | CLI graph-based system to display statistics and calculate best (filtered) flight routes based on a large dataset (C++) | 19.6 |
-| DA | [Water Supply Management](https://github.com/racoelhosilva/DA_waterSupplyManagement) | TUI program to calculate the water flows in a complex graph network with Reservoirs, Pumping Stations and Delivery Sites (C++) | 20.0 | 
-| DA | [TSP](https://github.com/racoelhosilva/DA_TSP) | TUI implementations and benchmarks of different algorithms and heuristics for the Travelling Salesperson Problem (TSP) with large datasets (C++) | 20.0 |
-| LTW | [Trinted](https://github.com/racoelhosilva/LTW_Trinted) | Website for a second-hand marketplace with responsive, interactive and dynamically-generated webpages (PHP, CSS, Typescript, SQLite) | 18.6 | 
-| ESOF | [ECOnnect](https://github.com/racoelhosilva/ESOF_ECOnnect) | Mobile social media application for environmental sustainability content featuring posts, likes, comments and follows (Dart w/ Flutter, Firebase) | 19.0 | 
-| LCOM | [MINVIM](https://github.com/racoelhosilva/LCOM_minvim) | Vim-inspired text editor with low-level device drivers: timer, mouse, keyboard, graphics card, RTC and serial port for collaboration mode (C) | 20.0 | 
-| PFL | [Functional Graphs](https://github.com/racoelhosilva/PFL_graphs) | Functional programming approach to different graph representations, algorithms and data structures: DFS, Dijkstra and Held-Karp (Haskell) | |
-| RCOM | [Data Link Protocol](https://github.com/racoelhosilva/RCOM_dataLink) | Data Link and Application layer protocol implementation with framing, timer, acknowledgements, stop-and-wait, retransmissions and byte stuffing (C) | | 
-
+| UC   |                                         Name                                         | Description                                                                                                                                                  | Final Grade |
+| ---- | :----------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | :---------: |
+| PROG |    [Image Manipulation](https://github.com/racoelhosilva/PROG_imageManipulation)     | Command-based image manipulation tool for 8-bit RGB images in PNG and XPM2 format (C/C++)                                                                    |    20.0     |
+| AED  |       [Schedule Manager](https://github.com/racoelhosilva/AED_scheduleManager)       | CLI utility to manage LEIC student's schedules as well as retrieve information about classes, courses and years (C++)                                        |    18.8     |
+| BDAD |    [Airport Management](https://github.com/racoelhosilva/BDAD_airportManagement)     | SQL database designed from scratch to manage various data related to a single specific airport (SQLite)                                                      |    19.2     |
+| LDTS |      [Timeless Odyssey](https://github.com/racoelhosilva/LDTS_timelessOdyssey)       | GUI 2D platformer designed with custom-made sprites, smooth physics, consecutive levels and much more (Java w/ Lanterna)                                     |    19.5     |
+| AED  |         [Flight Manager](https://github.com/racoelhosilva/AED_flightManager)         | CLI graph-based system to display statistics and calculate best (filtered) flight routes based on a large dataset (C++)                                      |    19.6     |
+| DA   | [Water Supply Management](https://github.com/racoelhosilva/DA_waterSupplyManagement) | TUI program to calculate the water flows in a complex graph network with Reservoirs, Pumping Stations and Delivery Sites (C++)                               |    20.0     |
+| DA   |                    [TSP](https://github.com/racoelhosilva/DA_TSP)                    | TUI implementations and benchmarks of different algorithms and heuristics for the Travelling Salesperson Problem (TSP) with large datasets (C++)             |    20.0     |
+| LTW  |               [Trinted](https://github.com/racoelhosilva/LTW_Trinted)                | Website for a second-hand marketplace with responsive, interactive and dynamically-generated webpages (PHP, CSS, Typescript, SQLite)                         |    18.6     |
+| ESOF |              [ECOnnect](https://github.com/racoelhosilva/ESOF_ECOnnect)              | Mobile social media application for environmental sustainability content featuring posts, likes, comments and follows (Dart w/ Flutter, Firebase)            |    19.0     |
+| LCOM |                [MINVIM](https://github.com/racoelhosilva/LCOM_minvim)                | Vim-inspired text editor with low-level device drivers: timer, mouse, keyboard, graphics card, RTC and serial port for collaboration mode (C)                |    20.0     |
+| PFL  |           [Functional Graphs](https://github.com/racoelhosilva/PFL_graphs)           | Functional programming approach to different graph representations, algorithms and data structures: DFS, Dijkstra and Held-Karp (Haskell)                    |             |
+| RCOM |         [Data Link Protocol](https://github.com/racoelhosilva/RCOM_dataLink)         | Data Link and Application layer protocol implementation with framing, timer, acknowledgements, stop-and-wait, retransmissions and byte stuffing (C)          |             |
+| IPC  |      [Watt Are You Doing](https://github.com/racoelhosilva/IPC_wattAreYouDoing)      | Prototype of Web application to monitor and analyze the energy consumption of different devices in a household (Figma)                                       |             |
+| RCOM |     [Computer Networks](https://github.com/racoelhosilva/RCOM_computerNetworks)      | CLI application to download files using the FTP Protocol (C) and computer network configuration with multiple devices, switches and routers                  |             |
+| PFL  |               [Replica](https://github.com/racoelhosilva/PFL_replica)                | TUI implementation of the Replica board game with 3 levels of AI (random, greedy and minimax), user interaction and interface themes (Prolog)                |             |
+| LBAW |               [ProGram](https://github.com/racoelhosilva/LBAW_proGram)               | Social Media for programmers with authentication, search, groups, interactions, notifications and administration (Laravel, Tailwind, Javascript, PostgreSQL) |             |
+| FSI  |      [CTFs and Logbooks](https://github.com/racoelhosilva/FSI_ctfsAndLogbooks)       | Collection of Seedlabs write-ups and Capture The Flag solutions: software, web, encryption and network (Markdown)                                            |             |
 
 <h1 align="center">Personal Projects</h1>
 
-| Name | Description |
-|:---:|---|
-| [Scripts](https://github.com/racoelhosilva/scripts) | Collection of custom-made shell scripts to automate frequent operations on my Linux system both project and customization related (Bash/Shell) |
-| [Pong SDL](https://github.com/racoelhosilva/pongSDL) | Implementation of the classic Pong game with CPU opponent, custom Makefile and some customization options (C++ w/ SDL) |
-| [Dotfiles](https://github.com/racoelhosilva/dotfiles) | Configuration files and backup settings for different software running on my Arch Linux daily-driver setup (AwesomeWM, Alacritty, Polybar, VSCode, Doom Emacs) |
-| [Advent of Code](https://github.com/racoelhosilva/adventOfCode) | Solutions to Advent of Code challenges from different years with tests taken from the problem description (Python) |
-| [LeetCode](https://github.com/racoelhosilva/leetCode) | Analysis and solutions to LeetCode problems categorized by theme and selected mainly from NeetCode150 and Grind75 (C++) |
+|                              Name                               | Description                                                                                                                                                    |
+| :-------------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|       [Scripts](https://github.com/racoelhosilva/scripts)       | Collection of custom-made shell scripts to automate frequent operations on my Linux system both project and customization related (Bash/Shell)                 |
+|      [Pong SDL](https://github.com/racoelhosilva/pongSDL)       | Implementation of the classic Pong game with CPU opponent, custom Makefile and some customization options (C++ w/ SDL)                                         |
+|      [Dotfiles](https://github.com/racoelhosilva/dotfiles)      | Configuration files and backup settings for different software running on my Arch Linux daily-driver setup (AwesomeWM, Alacritty, Polybar, VSCode, Doom Emacs) |
+| [Advent of Code](https://github.com/racoelhosilva/adventOfCode) | Solutions to Advent of Code challenges from different years with tests taken from the problem description (Python)                                             |
+|      [LeetCode](https://github.com/racoelhosilva/leetCode)      | Analysis and solutions to LeetCode problems categorized by theme and selected mainly from NeetCode150 and Grind75 (C++)                                        |
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=racoelhosilva&color=blue&style=pixel"/>
