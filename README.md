@@ -42,7 +42,7 @@
 | RCOM |     [Computer Networks](https://github.com/racoelhosilva/RCOM_computerNetworks)      | CLI application to download files using the FTP Protocol (C) and computer network configuration with multiple devices, switches and routers          |    20.0     |
 | PFL  |               [Replica](https://github.com/racoelhosilva/PFL_replica)                | TUI implementation of the Replica board game with 3 levels of AI (random, greedy and minimax), user interaction and interface themes (Prolog)        |             |
 | LBAW |               [ProGram](https://github.com/racoelhosilva/LBAW_proGram)               | Social Media for programmers with authentication, administration, search, interactions, groups and notifications (Laravel, Tailwind, JS, PostgreSQL) |             |
-| FSI  |      [CTFs and Logbooks](https://github.com/racoelhosilva/FSI_ctfsAndLogbooks)       | Collection of Seedlabs write-ups and Capture The Flag solutions: software, web, encryption and network (Markdown)                                    |             |
+| FSI  |      [CTFs and Logbooks](https://github.com/racoelhosilva/FSI_ctfsAndLogbooks)       | Collection of Seedlabs write-ups and Capture The Flag solutions: software, web, encryption and network (Markdown)                                    |    20.0     |
 
 <h1 align="center">Personal Projects</h1>
 
