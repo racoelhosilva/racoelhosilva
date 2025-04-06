@@ -43,6 +43,8 @@
 | PFL  |               [Replica](https://github.com/racoelhosilva/PFL_replica)                | TUI implementation of the Replica board game with 3 levels of AI (random, greedy and minimax), user interaction and interface themes (Prolog)        |    19.7     |
 | LBAW |               [ProGram](https://github.com/racoelhosilva/LBAW_proGram)               | Social Media for programmers with authentication, administration, search, interactions, groups and notifications (Laravel, Tailwind, JS, PostgreSQL) |    19.2     |
 | FSI  |      [CTFs and Logbooks](https://github.com/racoelhosilva/FSI_ctfsAndLogbooks)       | Collection of Seedlabs write-ups and Capture The Flag solutions: software, web, encryption and network (Markdown)                                    |    20.0     |
+| CPD  |  [Matrix Multiplication](https://github.com/racoelhosilva/CPD_matrixMultiplication)  | Analysis of different matrix multiplication algorithms with focus on memory models, cache accesses and parallel computing (Lua, C++, OpenMP)         |             |
+| IA   |       [Router Placement](https://github.com/racoelhosilva/IA_routerPlacement)        | Solution of Google Hash Code 2017 using Random Walk, Hill Climbing, Simulated Annealing, Tabu Search and Genetic Algorithms (Python)                 |             |
 
 <h1 align="center">Personal Projects</h1>
 
