@@ -6,22 +6,6 @@
 <a href="https://github.com/racoelhosilva"><img height=200 width=490 align="center" src="https://github-readme-stats.vercel.app/api?username=racoelhosilva&theme=github_dark&hide_border=true&border_color=EBDBB2&show_icons=true&border_radius=8&card_width=490" /></a>
 <a href="https://github.com/racoelhosilva"><img height=200 width=auto align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=racoelhosilva&theme=github_dark&show_icons=true&hide_border=true&size_weight=0.35&count_weight=0.45&langs_count=10&layout=compact&border_color=EBDBB2&card_width=320&border_radius=8&exclude_repo=PROG_imageManipulation,dotfiles&hide=cmake,lua,makefile,gherkin" /></a>
 
-<!---<h1 align="center">Languages</h1>
-
-<p align="center">
-<img alt="" src="https://img.shields.io/badge/_-C-_?style=for-the-badge&logo=C&logoColor=%2300599C&labelColor=%23ffffff00&color=%2300599C">
-<img alt="" src="https://img.shields.io/badge/_-C%2B%2B-_?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C&labelColor=%23ffffff00&color=%2300599C">
-<img alt="" src="https://img.shields.io/badge/_-css-_?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=%23ffffff00&color=%231572B6">
-<img alt="" src="https://img.shields.io/badge/_-flutter-_?style=for-the-badge&logo=flutter&logoColor=%2302569B&labelColor=%23ffffff00&color=%2302569B">
-<img alt="" src="https://img.shields.io/badge/_-HTML-_?style=for-the-badge&logo=html5&labelColor=%23ffffff00&color=%23E34F26">
-<img alt="" src="https://img.shields.io/badge/_-Java-_?style=for-the-badge&logo=openjdk&logoColor=%235382a1&labelColor=%23ffffff00&color=%235382a1">
-<img alt="" src="https://img.shields.io/badge/_-javascript-_?style=for-the-badge&logo=javascript&labelColor=%23ffffff00&color=%23F7DF1E">
-<img alt="" src="https://img.shields.io/badge/_-php-_?style=for-the-badge&logo=php&labelColor=%23ffffff00&color=%23777BB4">
-<img alt="" src="https://img.shields.io/badge/_-python-_?style=for-the-badge&logo=python&labelColor=%23ffffff00&color=%233776AB">
-<img alt="" src="https://img.shields.io/badge/_-shell-_?style=for-the-badge&logo=gnu%20bash&labelColor=%23ffffff00&color=%234EAA25">
-<img alt="" src="https://img.shields.io/badge/_-sqlite-_?style=for-the-badge&logo=sqlite&logoColor=%23003B57&labelColor=%23ffffff00&color=%23003B57">
-</p>-->
-
 <h1 align="center">University Projects</h1>
 
 | UC   |                                         Name                                         | Description                                                                                                                                          | Final Grade |
@@ -45,6 +29,10 @@
 | FSI  |      [CTFs and Logbooks](https://github.com/racoelhosilva/FSI_ctfsAndLogbooks)       | Collection of Seedlabs write-ups and Capture The Flag solutions: software, web, encryption and network (Markdown)                                    |    20.0     |
 | CPD  |  [Matrix Multiplication](https://github.com/racoelhosilva/CPD_matrixMultiplication)  | Analysis of different matrix multiplication algorithms with focus on memory models, cache accesses and parallel computing (Lua, C++, OpenMP)         |             |
 | IA   |       [Router Placement](https://github.com/racoelhosilva/IA_routerPlacement)        | Solution of Google Hash Code 2017 using Random Walk, Hill Climbing, Simulated Annealing, Tabu Search and Genetic Algorithms (Python)                 |             |
+| CPD  |            [Chat Server](https://github.com/racoelhosilva/CPD_chatServer)            | Distributed chat server with rooms, concurrent clients and message ordering; exploring race conditions, causality, consistency and faults (Java)     |             |
+| IA   |    [Backpack Prediction](https://github.com/racoelhosilva/IA_backpackPrediction)     | Kaggle playground regression challenge with complete Machine Learning pipeline and multiple models: DT, KNN, SVM, NN and RF (Python w/ SciKit)       |             |
+| COMP |          [J-- Compiler](https://github.com/racoelhosilva/COMP_jmmCompiler)           | Compiler for a subset of Java with lexical/syntactic analysis, semantic checks, intermediate representations, optimizations and backend (Java)       |             |
+| CGRA |     [Firefighter Scene](https://github.com/racoelhosilva/CGRA_firefighterScene)      | 3D simulation featuring a user-controlled helicopter extinguishing fires, with object modeling, texturing and shaders  (Javascript w/ WebGL)         |             |
 
 <h1 align="center">Personal Projects</h1>
 
