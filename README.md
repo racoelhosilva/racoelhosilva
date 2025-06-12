@@ -34,16 +34,6 @@
 | COMP |          [J-- Compiler](https://github.com/racoelhosilva/COMP_jmmCompiler)           | Compiler for a subset of Java with lexical/syntactic analysis, semantic checks, intermediate representations, optimizations and backend (Java)       |             |
 | CGRA |     [Firefighter Scene](https://github.com/racoelhosilva/CGRA_firefighterScene)      | 3D simulation featuring a user-controlled helicopter extinguishing fires, with object modeling, texturing and shaders  (Javascript w/ WebGL)         |             |
 
-<h1 align="center">Personal Projects</h1>
-
-|                              Name                               | Description                                                                                                                                                    |
-| :-------------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       [Scripts](https://github.com/racoelhosilva/scripts)       | Collection of custom-made shell scripts to automate frequent operations on my Linux system both project and customization related (Bash/Shell)                 |
-|      [Pong SDL](https://github.com/racoelhosilva/pongSDL)       | Implementation of the classic Pong game with CPU opponent, custom Makefile and some customization options (C++ w/ SDL)                                         |
-|      [Dotfiles](https://github.com/racoelhosilva/dotfiles)      | Configuration files and backup settings for different software running on my Arch Linux daily-driver setup (AwesomeWM, Alacritty, Polybar, VSCode, Doom Emacs) |
-| [Advent of Code](https://github.com/racoelhosilva/adventOfCode) | Solutions to Advent of Code challenges from different years with tests taken from the problem description (Python)                                             |
-|      [LeetCode](https://github.com/racoelhosilva/leetCode)      | Analysis and solutions to LeetCode problems categorized by theme and selected mainly from NeetCode150 and Grind75 (C++)                                        |
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=racoelhosilva&color=blue&style=pixel"/>
 </p>
