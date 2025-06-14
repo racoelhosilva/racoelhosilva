@@ -32,7 +32,7 @@
 | CPD  |            [Chat Server](https://github.com/racoelhosilva/CPD_chatServer)            | Distributed chat server with rooms, concurrent clients and message ordering; exploring race conditions, causality, consistency and faults (Java)     |    19.0     |
 | IA   |    [Backpack Prediction](https://github.com/racoelhosilva/IA_backpackPrediction)     | Kaggle playground regression challenge with complete Machine Learning pipeline and multiple models: DT, KNN, SVM, NN and RF (Python w/ SciKit)       |             |
 | COMP |          [J-- Compiler](https://github.com/racoelhosilva/COMP_jmmCompiler)           | Compiler for a subset of Java with lexical/syntactic analysis, semantic checks, intermediate representations, optimizations and backend (Java)       |             |
-| CGRA |     [Firefighter Scene](https://github.com/racoelhosilva/CGRA_firefighterScene)      | 3D simulation featuring a user-controlled helicopter extinguishing fires, with object modeling, texturing and shaders  (Javascript w/ WebGL)         |             |
+| CGRA |     [Firefighter Scene](https://github.com/racoelhosilva/CGRA_firefighterScene)      | 3D simulation featuring a user-controlled helicopter extinguishing fires, with object modeling, texturing and shaders  (Javascript w/ WebGL)         |    19.4     |
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=racoelhosilva&color=blue&style=pixel"/>
