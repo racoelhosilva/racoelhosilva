@@ -10,6 +10,4 @@ I'm passionate about the theoretical foundations of computing (logic and algorit
 
 Outside of work, I enjoy playing chess, reading books and playing video games.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=racoelhosilva&color=blue&style=pixel"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=racoelhosilva&color=blue&style=pixel"/>
