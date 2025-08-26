@@ -1,4 +1,4 @@
-<h3>Hi there! <span><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHBsamtnNmFhb2czdmVqdzd4Mnh3NTdzdGVhM2N5OWJjeWl5ZWUxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F9tGaJZqP4Dsw34rHb/giphy.gif" width="20" alt="👋"></span></h3>
+<h3>Hi there! 👋</h3>
 
 I'm **Rodrigo**, a computer science graduate between Lausanne 🇨🇭 and Porto 🇵🇹.
 
@@ -16,4 +16,5 @@ I'm passionate about the theoretical foundations of computing (math, logic and a
 
 [<img src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">](mailto:racoelhosilva@gmail.com)
 [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedinsimple&logoColor=white" alt="LinkedIn Badge">](https://linkedin.com/in/racoelhosilva)
+
 
