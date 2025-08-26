@@ -12,7 +12,7 @@ I'm passionate about the theoretical foundations of computing (math, logic and a
 📜 reading books (*Fellowship of the Ring* by J.R.R. Tolkien)  
 🪴 learning new things, inside and outside computer science
 
-<h3>Let's connect!</h3>
+<h4>Let's connect!</h4>
 
 [<img src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">](mailto:racoelhosilva@gmail.com)
 [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedinsimple&logoColor=white" alt="LinkedIn Badge">](https://linkedin.com/in/racoelhosilva)
