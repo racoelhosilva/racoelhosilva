@@ -6,7 +6,8 @@ I am currently a researcher at INESC-ID, where I help develop the analysis engin
 
 I'm passionate about the theoretical foundations of computing (math, logic and algorithms) and understanding how clever solutions work under the hood. I also love coding, experimenting with different technologies and building projects that have practical applications.
 
-Outside of work, I enjoy:  
+<h3>Outside of work, I enjoy:</h3>
+
 🧩 playing chess and video games  
 📜 reading books (*Fellowship of the Ring* by J.R.R. Tolkien)  
 🪴 learning new things, inside and outside computer science
