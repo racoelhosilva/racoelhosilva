@@ -14,5 +14,6 @@ I'm passionate about the theoretical foundations of computing (math, logic and a
 
 <h3>Let's connect!</h3>
 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">](mailto:racoelhosilva@gmail.com)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">](https://linkedin.com/in/racoelhosilva)
+[<img src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">](mailto:racoelhosilva@gmail.com)
+[<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedinsimple&logoColor=white" alt="LinkedIn Badge">](https://linkedin.com/in/racoelhosilva)
+
