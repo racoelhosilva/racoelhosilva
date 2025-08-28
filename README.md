@@ -8,13 +8,14 @@ I'm passionate about the theoretical foundations of computing (math, logic and a
 
 <h5>Outside of work, I enjoy:</h5>
 
-🧩 playing chess and video games  
-📜 reading books (*Fellowship of the Ring* by J.R.R. Tolkien)  
-🪴 learning new things, inside and outside computer science
+🧩 playing chess and indie video games  
+📜 reading books → *The Fellowship of the Ring* <sub>by **J.R.R Tolkien**</sub>  
+🪴 learning things I didn't know I didn't know
 
 <h4>Let's connect!</h4>
 
 [<img src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">](mailto:racoelhosilva@gmail.com)
 [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedinsimple&logoColor=white" alt="LinkedIn Badge">](https://linkedin.com/in/racoelhosilva)
+
 
 
