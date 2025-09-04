@@ -1,6 +1,6 @@
 <h3>Hi there! 👋</h3>
 
-I'm **Rodrigo**, a computer science graduate from Portugal 🇵🇹, studying in Lausanne 🇨🇭.
+I'm **Rodrigo**, a computer science graduate from Portugal 🇵🇹, currently based in Lausanne 🇨🇭.
 
 I am currently a researcher at [@INESC-ID](https://www.inesc-id.pt), where I help develop the analysis engine for the [Glitch](https://github.com/sr-lab/glitch) tool and define queries using Rego. I am also pursuing a master's in Computer Science at [@EPFL](https://www.epfl.ch/education/master/programs/computer-science), after completing my bachelor's at FEUP.
 
