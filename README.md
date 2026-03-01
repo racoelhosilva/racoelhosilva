@@ -2,7 +2,8 @@
 
 I'm **Rodrigo**, a computer science graduate from Portugal 🇵🇹, living in Lausanne 🇨🇭.
 
-I am currently a researcher at [@INESC-ID](https://www.inesc-id.pt), where I help develop the analysis engine for the [Glitch](https://github.com/sr-lab/glitch) tool and define queries using Rego. I am also pursuing a master's in Computer Science at [@EPFL](https://www.epfl.ch/education/master/programs/computer-science), after completing my bachelor's at FEUP.
+I am currently pursuing a master's in Computer Science at @EPFL, after completing my bachelor's at FEUP.
+I previosuly worked as a researcher at [@INESC-ID](https://www.inesc-id.pt), where I contributed to the development of the [Glitch](https://github.com/sr-lab/glitch) analysis engine and implemented Rego queries.
 
 I'm passionate about the theoretical foundations of computing (math, logic and algorithms) and understanding how clever solutions work under the hood. I also love coding, experimenting with different technologies and building projects that have practical applications.
 
