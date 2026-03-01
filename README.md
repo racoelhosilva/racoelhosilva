@@ -2,7 +2,7 @@
 
 I'm **Rodrigo**, a computer science graduate from Portugal 🇵🇹, living in Lausanne 🇨🇭.
 
-I am currently pursuing a master's in Computer Science at @EPFL, after completing my bachelor's at FEUP.
+I am currently pursuing a master's in Computer Science at [@EPFL](https://www.epfl.ch/education/master/programs/computer-science), after completing my bachelor's at FEUP.
 I previosuly worked as a researcher at [@INESC-ID](https://www.inesc-id.pt), where I contributed to the development of the [Glitch](https://github.com/sr-lab/glitch) analysis engine and implemented Rego queries.
 
 I'm passionate about the theoretical foundations of computing (math, logic and algorithms) and understanding how clever solutions work under the hood. I also love coding, experimenting with different technologies and building projects that have practical applications.
@@ -17,6 +17,7 @@ I'm passionate about the theoretical foundations of computing (math, logic and a
 
 [<img src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">](mailto:racoelhosilva@gmail.com)
 [<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedinsimple&logoColor=white" alt="LinkedIn Badge">](https://linkedin.com/in/racoelhosilva)
+
 
 
 
