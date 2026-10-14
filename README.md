@@ -3,7 +3,8 @@
 I'm **Rodrigo**, a computer science graduate from Portugal 🇵🇹, living in Lausanne 🇨🇭.
 
 I am currently pursuing a master's in Computer Science at [@EPFL](https://www.epfl.ch/education/master/programs/computer-science), after completing my bachelor's at FEUP.
-I previosuly worked as a researcher at [@INESC-ID](https://www.inesc-id.pt), where I contributed to the development of the [Glitch](https://github.com/sr-lab/glitch) analysis engine and implemented Rego queries.
+Recently, I worked as a SWE Intern at [@Sonar](https://www.sonarsource.com/), where I designed an AI-powered workflow to automate request triaging for the Platform squad. 
+I have also contributed to research tools at [@INESC-ID](https://www.inesc-id.pt) and [@INESC-TEC](https://www.inesctec.pt).
 
 I'm passionate about the theoretical foundations of computing (math, logic and algorithms) and understanding how clever solutions work under the hood. I also love coding, experimenting with different technologies and building projects that have practical applications.
 
